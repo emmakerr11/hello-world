@@ -1,2 +1,3 @@
 # hello-world
-1st repository - Session 3
+Hi my name is Emma
+I like the Great British Bake Off and tea.
